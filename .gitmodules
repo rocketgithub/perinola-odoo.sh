@@ -10,3 +10,7 @@
 	path = bolson
 	url = https://github.com/rocketgithub/bolson.git
 	branch = 11.0
+[submodule "gface_ecofacturas"]
+	path = gface_ecofacturas
+	url = https://github.com/rocketgithub/gface_ecofacturas.git
+	branch = 10.0
