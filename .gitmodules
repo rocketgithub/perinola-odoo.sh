@@ -16,4 +16,4 @@
 	branch = 10.0
 [submodule "perinola"]
 	path = perinola
-	url = git@github.com:rocketgithub/perinola
+	url = git@github.com:rocketgithub/perinola.git
