@@ -14,3 +14,6 @@
 	path = gface_ecofacturas
 	url = https://github.com/rocketgithub/gface_ecofacturas.git
 	branch = 10.0
+[submodule "perinola"]
+	path = perinola
+	url = git@github.com:rocketgithub/perinola
