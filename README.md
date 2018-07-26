@@ -1,1 +1,1 @@
-# perinola-odoo.sh
+# perinola-odoo.sh.
